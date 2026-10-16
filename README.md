@@ -18,11 +18,10 @@ My journey in tech is driven by curiosity and a desire to build impactful applic
 
 ## 🎯 Current Focus
 
-- 🔭 Working on: **[Current Project]** <!-- TODO: Add your current main project -->
-- 🌱 Learning: **[Technology/Skill]** <!-- TODO: Add what you're currently learning -->
+- 🔭 Working on: **VYNEX** <!-- TODO: Add your current main project -->
+- 🌱 Learning: **C++** <!-- TODO: Add what you're currently learning -->
 - 👯 Looking to collaborate on: **Open Source Projects, Web Development initiatives**
-- 💬 Ask me about: **[Your Expertise Areas]** <!-- TODO: Add your areas of expertise, e.g., front-end basics, API design, problem-solving] -->
-- ⚡ Fun fact: **[Interesting fact about you]** <!-- TODO: Add a fun fact -->
+- 💬 Ask me about: **Python, Html nd Css** <!-- TODO: Add your areas of expertise, e.g., front-end basics, API design, problem-solving] -->
 
 ---
 
@@ -33,9 +32,6 @@ My journey in tech is driven by curiosity and a desire to build impactful applic
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🚀 Frameworks & Libraries
-
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -83,9 +79,8 @@ My journey in tech is driven by curiosity and a desire to build impactful applic
 ### 🌟 [My First Awesome Project](https://github.com/Neves-mp/my-first-awesome-project) <!-- TODO: Replace with your actual project link -->
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Neves-mp&repo=my-first-awesome-project&theme=tokyonight)](https://github.com/Neves-mp/my-first-awesome-project)
 
-**Tech Stack:** HTML • CSS • JavaScript • [Other relevant tech]
-**Status:** ✅ Complete | ⭐ [Number] Stars | 🍴 [Number] Forks
-*A brief description of this project, its purpose, and what you learned from building it. This is likely your public_repo, if it's named 'my-first-awesome-project'.*
+**Tech Stack:** HTML • CSS • JavaScript
+**Status:** ✅ Complete | ⭐ 12 Stars | 🍴 4 Forks
 
 ---
 
